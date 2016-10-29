@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/talloakdesign/ahuntsic360.png?label=ready&title=Ready)](https://waffle.io/talloakdesign/ahuntsic360)
 # ahuntsic360
 This is the Panotour project for CEGEP Ahuntsic's 360 photo tour, by <a href="http://in360.ca">in360</a>. 
 
