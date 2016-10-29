@@ -3532,7 +3532,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="373" objectId="106573" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106573" tourDirectory="cafeteria__g1_510__106573" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="373">
     <description foregroundColor="#000000" name="Cafétéria (G1.510)" backgroundColor="#ffffff" filename="../Output/20160515-131044.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="19.8464" y="10.142" objectId="106593" relativeX="0.414106" relativeY="0.504732" type="point">
      <description/>
@@ -3575,7 +3575,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="0" objectId="106575" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106575" tourDirectory="cafeteria__g1_510__106575" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="0">
     <description foregroundColor="#000000" name="Cafétéria (G1.510)" backgroundColor="#ffffff" filename="../Output/20160515-131149.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="39.1135" y="11.112" objectId="106595" relativeX="0.735225" relativeY="0.537066" type="point">
      <description/>
@@ -3618,7 +3618,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="0" objectId="106577" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106577" tourDirectory="corridor_g1_106577" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="0">
     <description foregroundColor="#000000" name="Corridor G1" backgroundColor="#ffffff" filename="../Output/20160515-131257.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-2.25768" y="10.7808" objectId="106597" relativeX="0.0457053" relativeY="0.526025" type="point">
      <description/>
@@ -3661,7 +3661,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="0" objectId="106579" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106579" tourDirectory="corridor__g1_510__106579" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="0">
     <description foregroundColor="#000000" name="Corridor (G1.510)" backgroundColor="#ffffff" filename="../Output/20160515-131409.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="5.14186" y="10.8517" objectId="106599" relativeX="0.169031" relativeY="0.528391" type="point">
      <description/>
@@ -3724,7 +3724,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="0" objectId="106581" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106581" tourDirectory="corridor__g1_030__106581" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="0">
     <description foregroundColor="#000000" name="Corridor (G1.030)" backgroundColor="#ffffff" filename="../Output/20160515-131526.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.73995" y="10.97" objectId="106602" relativeX="0.00433412" relativeY="0.532334" type="point">
      <description/>
@@ -3767,10 +3767,10 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="0" objectId="106583" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106583" tourDirectory="escalier_g1_e5__106583" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="0">
     <description foregroundColor="#000000" name="Escalier G1.E5)" backgroundColor="#ffffff" filename="../Output/20160515-132205.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="31" objectId="106585" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106585" tourDirectory="corridor__g1_440__106585" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="31">
     <description foregroundColor="#000000" name="Corridor (G1.440)" backgroundColor="#ffffff" filename="../Output/20160515-132319.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.33806" y="11.6561" objectId="106605" relativeX="0.0110323" relativeY="0.555205" type="point">
      <description/>
@@ -3813,7 +3813,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="31" objectId="106587" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106587" tourDirectory="imprimerie__g1_440__106587" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="31">
     <description foregroundColor="#000000" name="Imprimerie (G1.440)" backgroundColor="#ffffff" filename="../Output/20160515-132551.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="10.2009" y="9.85804" objectId="106606" relativeX="0.253349" relativeY="0.495268" type="point">
      <description/>
@@ -3856,7 +3856,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="31" objectId="106589" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106589" tourDirectory="imprimerie__g1_440__106589" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="31">
     <description foregroundColor="#000000" name="Imprimerie (G1.440)" backgroundColor="#ffffff" filename="../Output/20160515-132645.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="7.71868" y="10.3312" objectId="106608" relativeX="0.211978" relativeY="0.511041" type="point">
      <description/>
@@ -3879,7 +3879,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="31" objectId="106609" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106609" tourDirectory="corridor__g1_430__106609" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="31">
     <description foregroundColor="#000000" name="Corridor (G1.430)" backgroundColor="#ffffff" filename="../Output/20160515-132931.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.52719" y="11.4906" objectId="106612" relativeX="0.00788022" relativeY="0.549685" type="point">
      <description/>
@@ -3942,7 +3942,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="31" objectId="106613" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106613" tourDirectory="g1_430_106613" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="31">
     <description foregroundColor="#000000" name="G1.430" backgroundColor="#ffffff" filename="../Output/20160515-133247.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="6.13474" y="10.7334" objectId="106616" relativeX="0.185579" relativeY="0.524448" type="point">
      <description/>
@@ -3965,7 +3965,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="31" objectId="106617" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106617" tourDirectory="corridor__g1_420__106617" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="31">
     <description foregroundColor="#000000" name="Corridor (G1.420)" backgroundColor="#ffffff" filename="../Output/20160515-133515.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.76359" y="13.0284" objectId="106624" relativeX="0.00394011" relativeY="0.600946" type="point">
      <description/>
@@ -4028,7 +4028,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="31" objectId="106619" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106619" tourDirectory="g1_420__gauche__106619" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="31">
     <description foregroundColor="#000000" name="G1.420 (gauche)" backgroundColor="#ffffff" filename="../Output/20160515-133635.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="2.02126" y="10.4969" objectId="106626" relativeX="0.117021" relativeY="0.516562" type="point">
      <description/>
@@ -4071,7 +4071,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="62" objectId="106621" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106621" tourDirectory="g1_420__droit__106621" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="62">
     <description foregroundColor="#000000" name="G1.420 (droit)" backgroundColor="#ffffff" filename="../Output/20160515-133750.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="10.3191" y="10.2839" objectId="106628" relativeX="0.255319" relativeY="0.509464" type="point">
      <description/>
@@ -4094,7 +4094,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="62" objectId="106629" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106629" tourDirectory="corridor__g1_110__106629" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="62">
     <description foregroundColor="#000000" name="Corridor (G1.110)" backgroundColor="#ffffff" filename="../Output/20160515-134128.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.7872" y="11.2303" objectId="106631" relativeX="0.496454" relativeY="0.541009" type="point">
      <description/>
@@ -4177,7 +4177,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="62" objectId="106632" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106632" tourDirectory="g1_110_106632" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="62">
     <description foregroundColor="#000000" name="G1.110" backgroundColor="#ffffff" filename="../Output/20160515-134357.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="12.5414" y="10.5205" objectId="106637" relativeX="0.292356" relativeY="0.51735" type="point">
      <description/>
@@ -4200,7 +4200,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="62" objectId="106634" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106634" tourDirectory="g1_120_106634" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="62">
     <description foregroundColor="#000000" name="G1.120" backgroundColor="#ffffff" filename="../Output/20160515-134738.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="54.9054" y="11.2066" objectId="106638" relativeX="0.998424" relativeY="0.540221" type="point">
      <description/>
@@ -4223,7 +4223,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="62" objectId="106641" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106641" tourDirectory="foyer_g1_005_106641" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="62">
     <description foregroundColor="#000000" name="Foyer G1.005" backgroundColor="#ffffff" filename="../Output/20160515-135006.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="10.9101" y="10.6861" objectId="106646" relativeX="0.265169" relativeY="0.522871" type="point">
      <description/>
@@ -4286,7 +4286,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="62" objectId="106643" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106643" tourDirectory="entree_1_g_106643" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="62">
     <description foregroundColor="#000000" name="Entrée 1-G" backgroundColor="#ffffff" filename="../Output/20160515-134909.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.97636" y="11.2303" objectId="106648" relativeX="0.000394011" relativeY="0.541009" type="point">
      <description/>
@@ -4329,7 +4329,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="62" objectId="106651" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106651" tourDirectory="ascenseur__g1__106651" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="62">
     <description foregroundColor="#000000" name="Ascenseur (G1) " backgroundColor="#ffffff" filename="../Output/20160515-141556.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="41.8558" y="12.5315" objectId="106653" relativeX="0.78093" relativeY="0.584385" type="point">
      <description/>
@@ -4392,7 +4392,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="93" objectId="106655" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106655" tourDirectory="g1_200_106655" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="93">
     <description foregroundColor="#000000" name="G1-200" backgroundColor="#ffffff" filename="../Output/20160515-135536.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="23.6525" y="11.0883" objectId="106657" relativeX="0.477541" relativeY="0.536278" type="point">
      <description/>
@@ -4435,7 +4435,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="93" objectId="106659" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106659" tourDirectory="g1_210_106659" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="93">
     <description foregroundColor="#000000" name="G1.210" backgroundColor="#ffffff" filename="../Output/20160515-135734.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="54.7872" y="11.6325" objectId="106662" relativeX="0.996454" relativeY="0.554416" type="point">
      <description/>
@@ -4458,7 +4458,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="93" objectId="106664" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106664" tourDirectory="corridor__g1_220__106664" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="93">
     <description foregroundColor="#000000" name="Corridor (G1.220)" backgroundColor="#ffffff" filename="../Output/20160515-135924.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="11.1939" y="10.3785" objectId="106666" relativeX="0.269898" relativeY="0.512618" type="point">
      <description/>
@@ -4521,7 +4521,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="93" objectId="106668" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106668" tourDirectory="g1_225_106668" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="93">
     <description foregroundColor="#000000" name="G1.225" backgroundColor="#ffffff" filename="../Output/20160515-140119.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-0.366428" y="11.1357" objectId="106671" relativeX="0.0772262" relativeY="0.537855" type="point">
      <description/>
@@ -4544,7 +4544,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="93" objectId="106674" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106674" tourDirectory="corridor__g1_260__106674" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="93">
     <description foregroundColor="#000000" name="Corridor (G1.260)" backgroundColor="#ffffff" filename="../Output/20160515-140742.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="10.1773" y="10.1893" objectId="106676" relativeX="0.252955" relativeY="0.506309" type="point">
      <description/>
@@ -4607,7 +4607,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="93" objectId="106679" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106679" tourDirectory="g1_240_106679" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="93">
     <description foregroundColor="#000000" name="G1.240" backgroundColor="#ffffff" filename="../Output/20160515-141342.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="9.4681" y="11.5615" objectId="106684" relativeX="0.241135" relativeY="0.55205" type="point">
      <description/>
@@ -4630,7 +4630,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="93" objectId="106677" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106677" tourDirectory="g1_272_106677" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="93">
     <description foregroundColor="#000000" name="G1.272" backgroundColor="#ffffff" filename="../Output/20160515-140902.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="28.8771" y="11.3013" objectId="106683" relativeX="0.564618" relativeY="0.543375" type="point">
      <description/>
@@ -4653,7 +4653,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="124" objectId="106685" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106685" tourDirectory="corridor__g1_320__106685" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="124">
     <description foregroundColor="#000000" name="Corridor (G1.320)" backgroundColor="#ffffff" filename="../Output/20160515-141734.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="39.7281" y="11.5852" objectId="106690" relativeX="0.745469" relativeY="0.552839" type="point">
      <description/>
@@ -4716,7 +4716,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="124" objectId="106687" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106687" tourDirectory="g1_320_106687" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="124">
     <description foregroundColor="#000000" name="G1.320" backgroundColor="#ffffff" filename="../Output/20160515-141837.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="41.2648" y="11.2776" objectId="106692" relativeX="0.77108" relativeY="0.542587" type="point">
      <description/>
@@ -4739,7 +4739,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="124" objectId="106693" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106693" tourDirectory="corridor__g1_330__106693" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="124">
     <description foregroundColor="#000000" name="Corridor (G1.330)" backgroundColor="#ffffff" filename="../Output/20160515-141955.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="39.5863" y="11.9874" objectId="106708" relativeX="0.743105" relativeY="0.566246" type="point">
      <description/>
@@ -4802,7 +4802,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="124" objectId="106695" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106695" tourDirectory="g1_330_106695" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="124">
     <description foregroundColor="#000000" name="G1.330" backgroundColor="#ffffff" filename="../Output/20160515-142050.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.8345" y="10.3076" objectId="106711" relativeX="0.497242" relativeY="0.510252" type="point">
      <description/>
@@ -4825,7 +4825,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="124" objectId="106697" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106697" tourDirectory="corridor__g1_340__106697" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="124">
     <description foregroundColor="#000000" name="Corridor (G1.340)" backgroundColor="#ffffff" filename="../Output/20160515-142341.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.64539" y="14.5426" objectId="106712" relativeX="0.00591017" relativeY="0.65142" type="point">
      <description/>
@@ -4888,7 +4888,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="124" objectId="106699" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106699" tourDirectory="g1_340_106699" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="124">
     <description foregroundColor="#000000" name="G1.340" backgroundColor="#ffffff" filename="../Output/20160515-142432.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="41.3594" y="14.3297" objectId="106715" relativeX="0.772656" relativeY="0.644322" type="point">
      <description/>
@@ -4911,7 +4911,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="124" objectId="106701" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106701" tourDirectory="corridor__g1_351__106701" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="124">
     <description foregroundColor="#000000" name="Corridor (G1.351)" backgroundColor="#ffffff" filename="../Output/20160515-142610.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="8.35696" y="12.0347" objectId="106716" relativeX="0.222616" relativeY="0.567823" type="point">
      <description/>
@@ -4974,7 +4974,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="155" objectId="106703" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106703" tourDirectory="g1_351_106703" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="155">
     <description foregroundColor="#000000" name="G1.351" backgroundColor="#ffffff" filename="../Output/20160515-142711.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-3.36879" y="11.3486" objectId="106719" relativeX="0.0271868" relativeY="0.544953" type="point">
      <description/>
@@ -4997,7 +4997,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="155" objectId="106705" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106705" tourDirectory="g1_353_106705" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="155">
     <description foregroundColor="#000000" name="G1.353" backgroundColor="#ffffff" filename="../Output/20160515-143036.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="23.2506" y="12.6735" objectId="106720" relativeX="0.470843" relativeY="0.589117" type="point">
      <description/>
@@ -6224,7 +6224,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="0" objectId="106847" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106847" tourDirectory="entree_du_passarelle_106847" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="0">
     <description foregroundColor="#000000" name="Entrée du Passarelle" backgroundColor="#ffffff" filename="../Output/20160515-161633.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="38.2624" y="11.7035" objectId="106850" relativeX="0.72104" relativeY="0.556782" type="point">
      <description/>
@@ -6307,7 +6307,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="0" objectId="106852" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106852" tourDirectory="corridor__t1_010__106852" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="0">
     <description foregroundColor="#000000" name="Corridor (T1.010)" backgroundColor="#ffffff" filename="../Output/20160515-161736.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.62175" y="11.2066" objectId="106855" relativeX="0.00630418" relativeY="0.540221" type="point">
      <description/>
@@ -6370,7 +6370,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="0" objectId="106857" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106857" tourDirectory="corridor__t1_210__106857" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="0">
     <description foregroundColor="#000000" name="Corridor (T1.210)" backgroundColor="#ffffff" filename="../Output/20160515-162014.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="40.3664" y="11.3722" objectId="106860" relativeX="0.756107" relativeY="0.545741" type="point">
      <description/>
@@ -6433,7 +6433,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="0" objectId="106861" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106861" tourDirectory="t1_210_106861" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="0">
     <description foregroundColor="#000000" name="T1.210" backgroundColor="#ffffff" filename="../Output/20160515-162110.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="10.6501" y="10.8044" objectId="106863" relativeX="0.260835" relativeY="0.526814" type="point">
      <description/>
@@ -6456,7 +6456,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="822" planar="false" phi="0" lowres="true" y="31" objectId="106865" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106865" tourDirectory="corridor__t1_035__106865" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="822" y="31">
     <description foregroundColor="#000000" name="Corridor (T1.035)" backgroundColor="#ffffff" filename="../Output/20160515-162436.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="9.29668" y="12.2988" objectId="107685" relativeX="0.238278" relativeY="0.576628" type="point">
      <description/>
@@ -6519,7 +6519,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="31" objectId="106867" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106867" tourDirectory="entree_21t_106867" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="31">
     <description foregroundColor="#000000" name="Entrée 21T" backgroundColor="#ffffff" filename="../Output/20160515-162557.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="11.1914" y="11.3218" objectId="107680" relativeX="0.269856" relativeY="0.544061" type="point">
      <description/>
@@ -6562,7 +6562,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="31" objectId="107683" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107683" tourDirectory="corridor__t1_290__107683" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="31">
     <description foregroundColor="#000000" name="Corridor (T1.290)" backgroundColor="#ffffff" filename="../Output/20160515-163509.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="39.8995" y="12.6437" objectId="107689" relativeX="0.748325" relativeY="0.588123" type="point">
      <description/>
@@ -6645,7 +6645,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="31" objectId="107681" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107681" tourDirectory="corridor__t1_060__107681" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="31">
     <description foregroundColor="#000000" name="Corridor (T1.060)" backgroundColor="#ffffff" filename="../Output/20160515-162658.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="23.9952" y="11.2069" objectId="107692" relativeX="0.483254" relativeY="0.54023" type="point">
      <description/>
@@ -6708,7 +6708,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="31" objectId="107693" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107693" tourDirectory="t1_260_107693" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="31">
     <description foregroundColor="#000000" name="T1.260" backgroundColor="#ffffff" filename="../Output/20160515-162827.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="54.0239" y="11.1494" objectId="107695" relativeX="0.983732" relativeY="0.538314" type="point">
      <description/>
@@ -6731,7 +6731,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="694" planar="false" phi="0" lowres="true" y="62" objectId="107697" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107697" tourDirectory="t1_250_107697" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="694" y="62">
     <description foregroundColor="#000000" name="T1.250" backgroundColor="#ffffff" filename="../Output/20160515-163048.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-0.4067" y="10.4598" objectId="107699" relativeX="0.076555" relativeY="0.515326" type="point">
      <description/>
@@ -6754,7 +6754,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="62" objectId="107701" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107701" tourDirectory="corridor__t1_291__107701" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="62">
     <description foregroundColor="#000000" name="Corridor (T1.291)" backgroundColor="#ffffff" filename="../Output/20160515-163333.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="33.1818" y="12.1264" objectId="107704" relativeX="0.636364" relativeY="0.570881" type="point">
      <description/>
@@ -6837,7 +6837,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="62" objectId="107706" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107706" tourDirectory="t1_290_107706" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="62">
     <description foregroundColor="#000000" name="T1.290" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-164353.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643472222222" latitude="45.552744444444"/>
     </description>
@@ -6862,7 +6862,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="62" objectId="107711" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107711" tourDirectory="corridor__t1_320__107711" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="62">
     <description foregroundColor="#000000" name="Corridor (T1.320)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-164534.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.6435" latitude="45.552805555556"/>
     </description>
@@ -6927,7 +6927,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="62" objectId="107714" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107714" tourDirectory="t1_320_107714" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="62">
     <description foregroundColor="#000000" name="T1.320" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-164708.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.6435" latitude="45.552777777778"/>
     </description>
@@ -6952,7 +6952,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="1021" planar="false" phi="0" lowres="true" y="93" objectId="107721" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107721" tourDirectory="corridor__t1_340__107721" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="1021" y="93">
     <description foregroundColor="#000000" name="Corridor (T1.340)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-164907.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643527777778" latitude="45.552777777778"/>
     </description>
@@ -7037,7 +7037,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="93" objectId="107726" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107726" tourDirectory="corridor__t1_333__107726" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="93">
     <description foregroundColor="#000000" name="Corridor (T1.333)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-165000.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643472222222" latitude="45.552744444444"/>
     </description>
@@ -7102,7 +7102,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="93" objectId="107729" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107729" tourDirectory="t1_333_107729" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="93">
     <description foregroundColor="#000000" name="T1.333" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-165116.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643555555556" latitude="45.552805555556"/>
     </description>
@@ -7127,7 +7127,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="93" objectId="107732" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107732" tourDirectory="corridor__t1_332__107732" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="93">
     <description foregroundColor="#000000" name="Corridor (T1.332)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-165228.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643555555556" latitude="45.552805555556"/>
     </description>
@@ -7172,7 +7172,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="93" objectId="107735" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107735" tourDirectory="t1_332_107735" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="93">
     <description foregroundColor="#000000" name="T1.332" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-165344.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643425" latitude="45.552733333333"/>
     </description>
@@ -7197,7 +7197,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="798" planar="false" phi="0" lowres="true" y="124" objectId="107739" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107739" tourDirectory="t1_330_107739" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="798" y="124">
     <description foregroundColor="#000000" name="T1.330" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-165506.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643416666667" latitude="45.552805555556"/>
     </description>
@@ -7242,7 +7242,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="124" objectId="107752" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107752" tourDirectory="t1_342_107752" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="124">
     <description foregroundColor="#000000" name="T1.342" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-165800.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643833333333" latitude="45.552744444444"/>
     </description>
@@ -7267,7 +7267,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="124" objectId="107757" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107757" tourDirectory="corridor__t1_500__107757" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="124">
     <description foregroundColor="#000000" name="Corridor (T1.500)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-170135.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643388888889" latitude="45.552494444444"/>
     </description>
@@ -7332,7 +7332,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="124" objectId="107760" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107760" tourDirectory="corridor__t1_350__107760" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="124">
     <description foregroundColor="#000000" name="Corridor (T1.350)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-170258.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.644630555556" latitude="45.552377777778"/>
     </description>
@@ -7357,7 +7357,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="124" objectId="107763" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107763" tourDirectory="t1_470_107763" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="124">
     <description foregroundColor="#000000" name="T1.470" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-170841.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643702777778" latitude="45.552833333333"/>
     </description>
@@ -7382,7 +7382,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="278" planar="false" phi="0" lowres="true" y="155" objectId="107766" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107766" tourDirectory="corridor__t1_480__107766" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="278" y="155">
     <description foregroundColor="#000000" name="Corridor (T1.480)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-171016.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643861111111" latitude="45.552552777778"/>
     </description>
@@ -7447,10 +7447,10 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="155" objectId="107769" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107769" tourDirectory="t1_480_107769" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="155">
     <description foregroundColor="#000000" name="T1.480" backgroundColor="#ffffff" filename="../Output/20160515-171150.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="155" objectId="107772" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="107772" tourDirectory="corridor__t1_470__107772" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="155">
     <description foregroundColor="#000000" name="Corridor (T1.470)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-170443.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643277777778" latitude="45.553111111111"/>
     </description>
@@ -7515,7 +7515,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="155" objectId="108648" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108648" tourDirectory="corridor__t1_220__108648" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="155">
     <description foregroundColor="#000000" name="Corridor (T1.220)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-171358.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643166666667" latitude="45.552669444444"/>
     </description>
@@ -7580,7 +7580,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="155" objectId="108652" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108652" tourDirectory="t1_220_108652" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="155">
     <description foregroundColor="#000000" name="T1.220" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-171537.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643125" latitude="45.552644444444"/>
     </description>
@@ -7605,7 +7605,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="1323" planar="false" phi="0" lowres="true" y="186" objectId="108658" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108658" tourDirectory="corridor__t1_230__108658" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="1323" y="186">
     <description foregroundColor="#000000" name="Corridor (T1.230)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-171723.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642805555556" latitude="45.552777777778"/>
     </description>
@@ -7670,7 +7670,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="186" objectId="108661" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108661" tourDirectory="t1_230_108661" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="186">
     <description foregroundColor="#000000" name="T1.230" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-171911.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643055555556" latitude="45.552869444444"/>
     </description>
@@ -7695,7 +7695,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="186" objectId="108668" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108668" tourDirectory="corridor__t1_025__108668" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="186">
     <description foregroundColor="#000000" name="Corridor (T1.025)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-172052.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642194444444" latitude="45.553444444444"/>
     </description>
@@ -7780,7 +7780,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="186" objectId="108673" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108673" tourDirectory="corridor__t1_810__108673" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="186">
     <description foregroundColor="#000000" name="Corridor (T1.810)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-172714.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642888888889" latitude="45.552847222222"/>
     </description>
@@ -7845,7 +7845,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="186" objectId="108676" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108676" tourDirectory="t1_810_108676" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="186">
     <description foregroundColor="#000000" name="T1.810" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-172830.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642777777778" latitude="45.552333333333"/>
     </description>
@@ -7870,7 +7870,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="1253" planar="false" phi="0" lowres="true" y="217" objectId="108683" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108683" tourDirectory="entree_24t_108683" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="1253" y="217">
     <description foregroundColor="#000000" name="Entrée 24T" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-172228.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642666666667" latitude="45.552869444444"/>
     </description>
@@ -7915,7 +7915,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="217" objectId="108687" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108687" tourDirectory="t1_240_108687" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="217">
     <description foregroundColor="#000000" name="T1.240" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-172424.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643055555556" latitude="45.552530555556"/>
     </description>
@@ -7940,7 +7940,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="217" objectId="108690" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108690" tourDirectory="t1_820_108690" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="217">
     <description foregroundColor="#000000" name="T1.820" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-172607.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642638888889" latitude="45.552888888889"/>
     </description>
@@ -7965,7 +7965,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="217" objectId="108698" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108698" tourDirectory="corridor__t1_790__108698" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="217">
     <description foregroundColor="#000000" name="Corridor (T1.790)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-173023.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642416666667" latitude="45.552647222222"/>
     </description>
@@ -8010,7 +8010,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="217" objectId="108702" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108702" tourDirectory="t1_790_108702" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="217">
     <description foregroundColor="#000000" name="T1.790" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-173138.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642313888889" latitude="45.552805555556"/>
     </description>
@@ -8035,7 +8035,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="1409" planar="false" phi="0" lowres="true" y="248" objectId="108707" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108707" tourDirectory="corridor__t1_770__108707" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="1409" y="248">
     <description foregroundColor="#000000" name="Corridor (T1.770)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-173311.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642416666667" latitude="45.552847222222"/>
     </description>
@@ -8100,7 +8100,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="248" objectId="108712" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108712" tourDirectory="t1_770_108712" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="248">
     <description foregroundColor="#000000" name="T1.770" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-173418.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642666666667" latitude="45.552755555556"/>
     </description>
@@ -8145,7 +8145,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="248" objectId="108717" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108717" tourDirectory="corridor__t1_730__108717" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="248">
     <description foregroundColor="#000000" name="Corridor (T1.730)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-173643.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642361111111" latitude="45.552655555556"/>
     </description>
@@ -8210,7 +8210,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="248" objectId="108722" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108722" tourDirectory="t1_785_108722" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="248">
     <description foregroundColor="#000000" name="T1.785" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-173759.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.641972222222" latitude="45.553083333333"/>
     </description>
@@ -8235,7 +8235,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="248" objectId="108725" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108725" tourDirectory="t1_780_108725" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="248">
     <description foregroundColor="#000000" name="T1.780" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-174048.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642686111111" latitude="45.552775"/>
     </description>
@@ -8260,7 +8260,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="1377" planar="false" phi="0" lowres="true" y="279" objectId="108735" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108735" tourDirectory="corridor__t1_760__108735" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="1377" y="279">
     <description foregroundColor="#000000" name="Corridor (T1.760)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-174257.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642083333333" latitude="45.553055555556"/>
     </description>
@@ -8325,7 +8325,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="279" objectId="108739" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108739" tourDirectory="t1_760_108739" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="279">
     <description foregroundColor="#000000" name="T1.760" backgroundColor="#ffffff" filename="../Output/20160515-174403.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="23.4161" y="10.0946" objectId="108742" relativeX="0.473601" relativeY="0.503155" type="point">
      <description/>
@@ -8348,7 +8348,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="279" objectId="108744" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108744" tourDirectory="corridor__esc_t1__108744" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="279">
     <description foregroundColor="#000000" name="Corridor (ESC T1)" backgroundColor="#ffffff" filename="../Output/20160515-174603.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.69267" y="12.9101" objectId="108747" relativeX="0.00512214" relativeY="0.597003" type="point">
      <description/>
@@ -8391,7 +8391,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="279" objectId="108748" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108748" tourDirectory="corridor__t1_703__108748" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="279">
     <description foregroundColor="#000000" name="Corridor (T1.703)" backgroundColor="#ffffff" filename="../Output/20160515-174818.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="39.5154" y="12.4369" objectId="108750" relativeX="0.741923" relativeY="0.58123" type="point">
      <description/>
@@ -8454,7 +8454,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="279" objectId="108752" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108752" tourDirectory="corridor__t1_740__108752" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="279">
     <description foregroundColor="#000000" name="Corridor (T1.740)" backgroundColor="#ffffff" filename="../Output/20160515-174945.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.3381" y="10.8754" objectId="108755" relativeX="0.488968" relativeY="0.52918" type="point">
      <description/>
@@ -8517,7 +8517,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="1285" planar="false" phi="0" lowres="true" y="310" objectId="108756" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108756" tourDirectory="t1_740_108756" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="1285" y="310">
     <description foregroundColor="#000000" name="T1.740" backgroundColor="#ffffff" filename="../Output/20160515-175056.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="39.8463" y="10.7334" objectId="108759" relativeX="0.747439" relativeY="0.524448" type="point">
      <description/>
@@ -8540,7 +8540,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="310" objectId="108760" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108760" tourDirectory="corridor__t1_770b__108760" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="310">
     <description foregroundColor="#000000" name="Corridor (T1.770B)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-175609.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642708333333" latitude="45.552661111111"/>
     </description>
@@ -8625,7 +8625,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="310" objectId="108763" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108763" tourDirectory="corridor__t1_724__108763" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="310">
     <description foregroundColor="#000000" name="Corridor (T1.724)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-175323.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642527777778" latitude="45.552511111111"/>
     </description>
@@ -8670,7 +8670,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="310" objectId="108772" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108772" tourDirectory="t1_723_108772" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="310">
     <description foregroundColor="#000000" name="T1.723" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-175446.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642611111111" latitude="45.552380555556"/>
     </description>
@@ -8695,7 +8695,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="310" objectId="108777" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108777" tourDirectory="t1_721_108777" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="310">
     <description foregroundColor="#000000" name="T1.721" backgroundColor="#ffffff" filename="../Output/20160515-175703.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="51.4775" y="10.9227" objectId="108780" relativeX="0.941292" relativeY="0.530757" type="point">
      <description/>
@@ -8718,7 +8718,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="1189" planar="false" phi="0" lowres="true" y="341" objectId="108781" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108781" tourDirectory="corridor__t1_650__108781" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="1189" y="341">
     <description foregroundColor="#000000" name="Corridor (T1.650)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-180038.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.642833333333" latitude="45.552730555556"/>
     </description>
@@ -8783,7 +8783,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="341" objectId="108785" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108785" tourDirectory="t1_650_108785" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="341">
     <description foregroundColor="#000000" name="T1.650" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-180137.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643027777778" latitude="45.553555555556"/>
     </description>
@@ -8808,7 +8808,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="341" objectId="108791" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108791" tourDirectory="corridor__t1_630__108791" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="341">
     <description foregroundColor="#000000" name="Corridor (T1.630)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-180305.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643166666667" latitude="45.552608333333"/>
     </description>
@@ -8913,7 +8913,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="341" objectId="108796" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108796" tourDirectory="t1_640_108796" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="341">
     <description foregroundColor="#000000" name="T1.640" backgroundColor="#ffffff" filename="../Output/20160515-180401.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="4.64539" y="10.6151" objectId="108799" relativeX="0.160756" relativeY="0.520505" type="point">
      <description/>
@@ -8956,7 +8956,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="341" objectId="108800" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108800" tourDirectory="t1_630_108800" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="341">
     <description foregroundColor="#000000" name="T1.630" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-180503.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643861111111" latitude="45.560902777778"/>
     </description>
@@ -9001,7 +9001,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="701" planar="false" phi="0" lowres="true" y="372" objectId="108803" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108803" tourDirectory="t1_620_108803" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="701" y="372">
     <description foregroundColor="#000000" name="T1.620" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-181037.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.644444444444" latitude="45.553638888889"/>
     </description>
@@ -9026,7 +9026,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="372" objectId="108812" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108812" tourDirectory="corridor__t1_660__108812" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="372">
     <description foregroundColor="#000000" name="Corridor (T1.660)" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-181141.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.643666666667" latitude="45.553638888889"/>
     </description>
@@ -9091,7 +9091,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="372" objectId="108815" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108815" tourDirectory="t1_660_108815" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="372">
     <description foregroundColor="#000000" name="T1.660" backgroundColor="#ffffff" gpsAutospot="true" filename="../Output/20160515-181307.jpg" foregroundAlpha="255" backgroundAlpha="255">
      <gps longitude="-73.645527777778" latitude="45.567236111111"/>
     </description>
@@ -9116,7 +9116,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="372" objectId="108818" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108818" tourDirectory="t1_670_108818" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="372">
     <description foregroundColor="#000000" name="T1.670" backgroundColor="#ffffff" filename="../Output/20160515-181403.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="54.8582" y="11.2776" objectId="108824" relativeX="0.997636" relativeY="0.542587" type="point">
      <description/>
@@ -9142,7 +9142,7 @@
   </group>
   <group nbColumn="-1" explicit="True" x="409" thumbMode="True" y="318" objectId="106722">
    <description foregroundColor="#ffffff" name="B1" backgroundColor="#808080" foregroundAlpha="255" backgroundAlpha="255"/>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="660" objectId="106721" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106721" tourDirectory="porte_b1_c1_106721" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="660">
     <description foregroundColor="#000000" name="Porte B1-C1" backgroundColor="#ffffff" filename="../Output/20160515-160901.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="8.92438" y="9.81073" objectId="106724" relativeX="0.232073" relativeY="0.493691" type="point">
      <description/>
@@ -9185,7 +9185,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="782" objectId="106725" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106725" tourDirectory="corridor__b1_670__106725" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="782">
     <description foregroundColor="#000000" name="Corridor (B1.670)" backgroundColor="#ffffff" filename="../Output/20160515-160522.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="9.4681" y="12.2476" objectId="106732" relativeX="0.241135" relativeY="0.574921" type="point">
      <description/>
@@ -9248,7 +9248,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="0" objectId="106727" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106727" tourDirectory="palestre__b1_670__106727" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="0">
     <description foregroundColor="#000000" name="Palestre (B1.670)" backgroundColor="#ffffff" filename="../Output/20160515-160746.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="27.2459" y="10.7571" objectId="106734" relativeX="0.537431" relativeY="0.525237" type="point">
      <description/>
@@ -9271,7 +9271,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="0" objectId="106735" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106735" tourDirectory="corridor__b1_030__106735" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="0">
     <description foregroundColor="#000000" name="Corridor (B1.030)" backgroundColor="#ffffff" filename="../Output/20160515-160352.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.66903" y="11.9164" objectId="106737" relativeX="0.00551615" relativeY="0.56388" type="point">
      <description/>
@@ -9314,7 +9314,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="0" objectId="106744" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106744" tourDirectory="corridor__b1_010__106744" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="0">
     <description foregroundColor="#000000" name="Corridor (B1.010)" backgroundColor="#ffffff" filename="../Output/20160515-152540.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="34.3144" y="11.9637" objectId="106747" relativeX="0.65524" relativeY="0.565457" type="point">
      <description/>
@@ -9417,7 +9417,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="0" objectId="106739" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106739" tourDirectory="corridor__b1_731__106739" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="0">
     <description foregroundColor="#000000" name="Corridor (B1.731)" backgroundColor="#ffffff" filename="../Output/20160515-160011.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="40.5319" y="11.041" objectId="106749" relativeX="0.758865" relativeY="0.5347" type="point">
      <description/>
@@ -9500,7 +9500,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="31" objectId="106741" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106741" tourDirectory="corridor__b1_731__106741" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="31">
     <description foregroundColor="#000000" name="Corridor (B1.731)" backgroundColor="#ffffff" filename="../Output/20160515-155906.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="12.565" y="11.112" objectId="106751" relativeX="0.29275" relativeY="0.537066" type="point">
      <description/>
@@ -9543,7 +9543,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="31" objectId="106838" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106838" tourDirectory="piscine_106838" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="31">
     <description foregroundColor="#000000" name="Piscine" backgroundColor="#ffffff" filename="../Output/20160515-155540.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="48.6407" y="10.6625" objectId="106842" relativeX="0.894011" relativeY="0.522082" type="point">
      <description/>
@@ -9586,7 +9586,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="31" objectId="106752" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106752" tourDirectory="corridor__b1_770__106752" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="31">
     <description foregroundColor="#000000" name="Corridor (B1.770)" backgroundColor="#ffffff" filename="../Output/20160515-152110.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="54.7636" y="11.2776" objectId="106755" relativeX="0.99606" relativeY="0.542587" type="point">
      <description/>
@@ -9609,7 +9609,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="31" objectId="106839" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106839" tourDirectory="piscine__plongeoir__106839" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="31">
     <description foregroundColor="#000000" name="Piscine (plongeoir)" backgroundColor="#ffffff" filename="../Output/20160515-155712.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="9.8227" y="10.6388" objectId="106844" relativeX="0.247045" relativeY="0.521293" type="point">
      <description/>
@@ -9652,7 +9652,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="31" objectId="106761" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106761" tourDirectory="corridor__b1_190__106761" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="31">
     <description foregroundColor="#000000" name="Corridor (B1.190)" backgroundColor="#ffffff" filename="../Output/20160515-151032.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-3.03783" y="12.5079" objectId="106763" relativeX="0.0327029" relativeY="0.583596" type="point">
      <description/>
@@ -9715,7 +9715,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="31" objectId="106759" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106759" tourDirectory="b1_190_106759" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="31">
     <description foregroundColor="#000000" name="B1.190" backgroundColor="#ffffff" filename="../Output/20160515-151151.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="36.8204" y="12.2713" objectId="106766" relativeX="0.697006" relativeY="0.57571" type="point">
      <description/>
@@ -9738,7 +9738,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="62" objectId="106767" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106767" tourDirectory="corridor__b1_110__106767" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="62">
     <description foregroundColor="#000000" name="Corridor (B1.110)" backgroundColor="#ffffff" filename="../Output/20160515-150325.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.74" y="11.8927" objectId="106770" relativeX="0.495666" relativeY="0.563091" type="point">
      <description/>
@@ -9821,7 +9821,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="62" objectId="106771" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106771" tourDirectory="b1_180_106771" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="62">
     <description foregroundColor="#000000" name="B1.180" backgroundColor="#ffffff" filename="../Output/20160515-150448.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="18.9716" y="10.4022" objectId="106777" relativeX="0.399527" relativeY="0.513407" type="point">
      <description/>
@@ -9844,7 +9844,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="62" objectId="106773" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106773" tourDirectory="b1_110_106773" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="62">
     <description foregroundColor="#000000" name="B1.110" backgroundColor="#ffffff" filename="../Output/20160515-150910.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="34.9291" y="10.8517" objectId="106778" relativeX="0.665485" relativeY="0.528391" type="point">
      <description/>
@@ -9867,7 +9867,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="62" objectId="106756" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106756" tourDirectory="corridor__b1_150__106756" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="62">
     <description foregroundColor="#000000" name="Corridor (B1.150)" backgroundColor="#ffffff" filename="../Output/20160515-151335.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="54.9527" y="11.3486" objectId="106779" relativeX="0.999212" relativeY="0.544953" type="point">
      <description/>
@@ -9890,7 +9890,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="62" objectId="106781" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106781" tourDirectory="salle_de_musculation_106781" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="62">
     <description foregroundColor="#000000" name="Salle de Musculation (B1.660)" backgroundColor="#ffffff" filename="../Output/20160515-152850.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="26.513" y="10.3549" objectId="106789" relativeX="0.525217" relativeY="0.51183" type="point">
      <description/>
@@ -9953,7 +9953,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="62" objectId="106783" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106783" tourDirectory="salle_de_musculation_106783" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="62">
     <description foregroundColor="#000000" name="Salle de Musculation (B1.660 droit)" backgroundColor="#ffffff" filename="../Output/20160515-152953.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-1.50118" y="11.6561" objectId="106792" relativeX="0.0583136" relativeY="0.555205" type="point">
      <description/>
@@ -9996,7 +9996,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="93" objectId="106784" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106784" tourDirectory="salle_de_musculation_106784" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="93">
     <description foregroundColor="#000000" name="Salle de Musculation (B1.660 gauche)" backgroundColor="#ffffff" filename="../Output/20160515-153145.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="25.851" y="12.0584" objectId="106794" relativeX="0.514184" relativeY="0.568612" type="point">
      <description/>
@@ -10039,7 +10039,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="93" objectId="106796" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106796" tourDirectory="corridor__b1_066__106796" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="93">
     <description foregroundColor="#000000" name="Corridor (B1.066)" backgroundColor="#ffffff" filename="../Output/20160515-153622.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="9.89362" y="10.5205" objectId="106799" relativeX="0.248227" relativeY="0.51735" type="point">
      <description/>
@@ -10102,7 +10102,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="93" objectId="106800" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106800" tourDirectory="corridor__b1_650__106800" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="93">
     <description foregroundColor="#000000" name="Corridor (B1.650)" backgroundColor="#ffffff" filename="../Output/20160515-153749.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.76359" y="11.0647" objectId="106803" relativeX="0.00394011" relativeY="0.535489" type="point">
      <description/>
@@ -10145,7 +10145,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="93" objectId="106804" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106804" tourDirectory="palestre_aux_miroirs_106804" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="93">
     <description foregroundColor="#000000" name="Palestre aux Miroirs (B1.650" backgroundColor="#ffffff" filename="../Output/20160515-153840.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="1.83214" y="11.112" objectId="106807" relativeX="0.113869" relativeY="0.537066" type="point">
      <description/>
@@ -10168,7 +10168,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="93" objectId="106808" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106808" tourDirectory="ascenseur_b1_106808" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="93">
     <description foregroundColor="#000000" name="Ascenseur B1" backgroundColor="#ffffff" filename="../Output/20160515-154104.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="54.6218" y="11.1593" objectId="106811" relativeX="0.993696" relativeY="0.538644" type="point">
      <description/>
@@ -10191,7 +10191,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="93" objectId="106814" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106814" tourDirectory="b1_310_106814" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="93">
     <description foregroundColor="#000000" name="B1.310" backgroundColor="#ffffff" filename="../Output/20160515-154536.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="39.8463" y="10.9464" objectId="106830" relativeX="0.747439" relativeY="0.531546" type="point">
      <description/>
@@ -10214,7 +10214,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="124" objectId="106816" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106816" tourDirectory="corridor__b1_320__106816" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="124">
     <description foregroundColor="#000000" name="Corridor (B1.320)" backgroundColor="#ffffff" filename="../Output/20160515-154632.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="10.0591" y="11.5142" objectId="106831" relativeX="0.250985" relativeY="0.550473" type="point">
      <description/>
@@ -10277,7 +10277,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="124" objectId="106818" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106818" tourDirectory="b1_320_106818" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="124">
     <description foregroundColor="#000000" name="B1.320" backgroundColor="#ffffff" filename="../Output/20160515-154858.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="51.9977" y="10.8517" objectId="106834" relativeX="0.949961" relativeY="0.528391" type="point">
      <description/>
@@ -10300,7 +10300,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="124" objectId="106820" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106820" tourDirectory="corridor__b1_330__106820" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="124">
     <description foregroundColor="#000000" name="Corridor (B1.330)" backgroundColor="#ffffff" filename="../Output/20160515-155017.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.8109" y="10.7334" objectId="106835" relativeX="0.496848" relativeY="0.524448" type="point">
      <description/>
@@ -10343,7 +10343,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="124" objectId="106812" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106812" tourDirectory="corridor__b1_310__106812" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="124">
     <description foregroundColor="#000000" name="Corridor (B1.310)" backgroundColor="#ffffff" filename="../Output/20160515-154403.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="37.7187" y="12.082" objectId="106826" relativeX="0.711978" relativeY="0.569401" type="point">
      <description/>
@@ -10406,7 +10406,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="124" objectId="106821" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="106821" tourDirectory="entree_b1_106821" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="124">
     <description foregroundColor="#000000" name="Entrée B1" backgroundColor="#ffffff" filename="../Output/20160515-155239.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="25.9456" y="11.112" objectId="106824" relativeX="0.51576" relativeY="0.537066" type="point">
      <description/>
@@ -10452,7 +10452,7 @@
   </group>
   <group nbColumn="-1" explicit="False" x="474" thumbMode="True" y="596" objectId="108827">
    <description foregroundColor="#ffffff" name="A0" backgroundColor="#808080" foregroundAlpha="255" backgroundAlpha="255"/>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="977" planar="false" phi="0" lowres="true" y="611" objectId="108826" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108826" tourDirectory="corridor__a0_640__108826" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="977" y="611">
     <description foregroundColor="#000000" name="Corridor (A0.640)" backgroundColor="#ffffff" filename="../Output/20160522-104108.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.3381" y="11.3013" objectId="108843" relativeX="0.488968" relativeY="0.543375" type="point">
      <description/>
@@ -10475,7 +10475,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="817" objectId="108828" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108828" tourDirectory="corridor__a0_630__108828" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="817">
     <description foregroundColor="#000000" name="Corridor (A0.630)" backgroundColor="#ffffff" filename="../Output/20160522-104549.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.66903" y="11.4196" objectId="108842" relativeX="0.00551615" relativeY="0.547319" type="point">
      <description/>
@@ -10538,7 +10538,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="997" objectId="108830" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108830" tourDirectory="a0_310_108830" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="997">
     <description foregroundColor="#000000" name="A0.310" backgroundColor="#ffffff" filename="../Output/20160522-104709.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.40898" y="10.0473" objectId="108845" relativeX="0.00985028" relativeY="0.501577" type="point">
      <description/>
@@ -10601,7 +10601,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="1013" objectId="108832" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108832" tourDirectory="a0_305_108832" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="1013">
     <description foregroundColor="#000000" name="A0.305" backgroundColor="#ffffff" filename="../Output/20160522-105023.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="23.3452" y="12.1057" objectId="108849" relativeX="0.472419" relativeY="0.570189" type="point">
      <description/>
@@ -10644,7 +10644,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="920" objectId="108834" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108834" tourDirectory="a0_306_108834" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="920">
     <description foregroundColor="#000000" name="A0.306" backgroundColor="#ffffff" filename="../Output/20160522-105210.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="22.3286" y="12.6498" objectId="108847" relativeX="0.455477" relativeY="0.588328" type="point">
      <description/>
@@ -10687,7 +10687,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="0" objectId="108836" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108836" tourDirectory="a0_320_108836" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="0">
     <description foregroundColor="#000000" name="A0.320" backgroundColor="#ffffff" filename="../Output/20160522-105507.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="41.714" y="12.1767" objectId="108851" relativeX="0.778566" relativeY="0.572555" type="point">
      <description/>
@@ -10750,7 +10750,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="0" objectId="108838" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108838" tourDirectory="a0_320__cat__108838" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="0">
     <description foregroundColor="#000000" name="A0.320 (CAT)" backgroundColor="#ffffff" filename="../Output/20160522-105604.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="31.5721" y="13.9038" objectId="108854" relativeX="0.609535" relativeY="0.630126" type="point">
      <description/>
@@ -10793,7 +10793,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="31" objectId="108840" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108840" tourDirectory="a0_322_108840" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="31">
     <description foregroundColor="#000000" name="A0.322" backgroundColor="#ffffff" filename="../Output/20160522-105736.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="17.5059" y="11.4669" objectId="108856" relativeX="0.375098" relativeY="0.548896" type="point">
      <description/>
@@ -10816,7 +10816,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="31" objectId="108857" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108857" tourDirectory="corridor__a0_620__108857" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="31">
     <description foregroundColor="#000000" name="Corridor (A0.620)" backgroundColor="#ffffff" filename="../Output/20160522-110017.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="10.1064" y="10.97" objectId="108860" relativeX="0.251773" relativeY="0.532334" type="point">
      <description/>
@@ -10859,7 +10859,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="31" objectId="108861" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108861" tourDirectory="corridor__a0_40__108861" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="31">
     <description foregroundColor="#000000" name="Corridor (A0.40)" backgroundColor="#ffffff" filename="../Output/20160522-110309.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.9527" y="11.2776" objectId="108863" relativeX="0.499212" relativeY="0.542587" type="point">
      <description/>
@@ -10942,7 +10942,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="31" objectId="108865" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108865" tourDirectory="corridor__a0_332__108865" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="31">
     <description foregroundColor="#000000" name="Corridor (A0.332)" backgroundColor="#ffffff" filename="../Output/20160522-110429.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="8.19149" y="11.5615" objectId="108870" relativeX="0.219858" relativeY="0.55205" type="point">
      <description/>
@@ -11045,7 +11045,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="31" objectId="108868" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108868" tourDirectory="a0_331b_108868" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="31">
     <description foregroundColor="#000000" name="A0.331B" backgroundColor="#ffffff" filename="../Output/20160522-110725.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="5.28369" y="11.4432" objectId="108872" relativeX="0.171395" relativeY="0.548107" type="point">
      <description/>
@@ -11088,7 +11088,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="31" objectId="108873" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108873" tourDirectory="a0_331_108873" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="31">
     <description foregroundColor="#000000" name="A0.331" backgroundColor="#ffffff" filename="../Output/20160522-110821.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="28.6879" y="10.3785" objectId="108876" relativeX="0.561466" relativeY="0.512618" type="point">
      <description/>
@@ -11131,7 +11131,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="31" objectId="108879" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108879" tourDirectory="a0_334_108879" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="31">
     <description foregroundColor="#000000" name="A0.334" backgroundColor="#ffffff" filename="../Output/20160522-111056.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="31.1702" y="10.4495" objectId="108884" relativeX="0.602837" relativeY="0.514984" type="point">
      <description/>
@@ -11234,7 +11234,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="62" objectId="108881" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108881" tourDirectory="a0_334_1_108881" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="62">
     <description foregroundColor="#000000" name="A0.334-1" backgroundColor="#ffffff" filename="../Output/20160522-111201.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.1253" y="14.0694" objectId="108886" relativeX="0.485422" relativeY="0.635647" type="point">
      <description/>
@@ -11257,7 +11257,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="62" objectId="108887" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108887" tourDirectory="a0_334_2_108887" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="62">
     <description foregroundColor="#000000" name="A0.334-2" backgroundColor="#ffffff" filename="../Output/20160522-111258.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="30.461" y="12.1767" objectId="108893" relativeX="0.591017" relativeY="0.572555" type="point">
      <description/>
@@ -11280,7 +11280,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="62" objectId="108889" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108889" tourDirectory="a0_334_3_108889" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="62">
     <description foregroundColor="#000000" name="A0.334-3" backgroundColor="#ffffff" filename="../Output/20160522-111615.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="21.643" y="15.1814" objectId="108894" relativeX="0.44405" relativeY="0.672713" type="point">
      <description/>
@@ -11303,7 +11303,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="62" objectId="108895" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108895" tourDirectory="a0_332_108895" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="62">
     <description foregroundColor="#000000" name="A0.332" backgroundColor="#ffffff" filename="../Output/20160522-112016.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="0.839244" y="10.97" objectId="108904" relativeX="0.0973207" relativeY="0.532334" type="point">
      <description/>
@@ -11406,7 +11406,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="62" objectId="108897" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108897" tourDirectory="a0_332_1_108897" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="62">
     <description foregroundColor="#000000" name="A0.332-1" backgroundColor="#ffffff" filename="../Output/20160522-112220.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="22.2813" y="11.7508" objectId="108908" relativeX="0.454689" relativeY="0.55836" type="point">
      <description/>
@@ -11429,7 +11429,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="62" objectId="108899" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108899" tourDirectory="a0_332_2_108899" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="62">
     <description foregroundColor="#000000" name="A0.332-2" backgroundColor="#ffffff" filename="../Output/20160522-112337.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="4.47991" y="13.9748" objectId="108910" relativeX="0.157998" relativeY="0.632492" type="point">
      <description/>
@@ -11452,7 +11452,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="62" objectId="108901" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108901" tourDirectory="a0_332_3_108901" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="62">
     <description foregroundColor="#000000" name="A0.332-3" backgroundColor="#ffffff" filename="../Output/20160522-112425.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="27.766" y="14.4243" objectId="108909" relativeX="0.546099" relativeY="0.647476" type="point">
      <description/>
@@ -11475,7 +11475,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="93" objectId="108911" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108911" tourDirectory="a0_333_108911" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="93">
     <description foregroundColor="#000000" name="A0.333" backgroundColor="#ffffff" filename="../Output/20160522-112530.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.9764" y="11.4905" objectId="108914" relativeX="0.499606" relativeY="0.549685" type="point">
      <description/>
@@ -11518,7 +11518,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="93" objectId="108917" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108917" tourDirectory="a0_335_108917" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="93">
     <description foregroundColor="#000000" name="A0.335" backgroundColor="#ffffff" filename="../Output/20160522-112724.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="27.1513" y="10.8044" objectId="108922" relativeX="0.535855" relativeY="0.526814" type="point">
      <description/>
@@ -11561,7 +11561,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="93" objectId="108919" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108919" tourDirectory="a0_337_108919" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="93">
     <description foregroundColor="#000000" name="A0.337" backgroundColor="#ffffff" filename="../Output/20160522-112840.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="51.7376" y="11.4669" objectId="108924" relativeX="0.945626" relativeY="0.548896" type="point">
      <description/>
@@ -11584,7 +11584,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="93" objectId="108961" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108961" tourDirectory="a0_306__dans_la_mach_108961" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="93">
     <description foregroundColor="#000000" name="A0.306 (dans la machine)" backgroundColor="#ffffff" filename="../Output/20160522-115702.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="53.4161" y="13.4306" objectId="108963" relativeX="0.973601" relativeY="0.614353" type="point">
      <description/>
@@ -11607,7 +11607,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="93" objectId="108965" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108965" tourDirectory="a0_320__dans_la_mach_108965" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="93">
     <description foregroundColor="#000000" name="A0.320 (dans la machine)" backgroundColor="#ffffff" filename="../Output/20160522-115101.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-1.66667" y="11.8927" objectId="108968" relativeX="0.0555556" relativeY="0.563091" type="point">
      <description/>
@@ -11630,7 +11630,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="93" objectId="108925" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108925" tourDirectory="corridor__a0_340__108925" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="93">
     <description foregroundColor="#000000" name="Corridor (A0.340)" backgroundColor="#ffffff" filename="../Output/20160522-113245.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="39.7281" y="11.2066" objectId="108927" relativeX="0.745469" relativeY="0.540221" type="point">
      <description/>
@@ -11693,7 +11693,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="93" objectId="108929" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108929" tourDirectory="corridor__a0_349__108929" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="93">
     <description foregroundColor="#000000" name="Corridor (A0.349)" backgroundColor="#ffffff" filename="../Output/20160522-113544.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="10.5556" y="10.6388" objectId="108946" relativeX="0.259259" relativeY="0.521293" type="point">
      <description/>
@@ -11776,7 +11776,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="0" planar="false" phi="0" lowres="true" y="124" objectId="108931" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108931" tourDirectory="a0_349_108931" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="0" y="124">
     <description foregroundColor="#000000" name="A0.349" backgroundColor="#ffffff" filename="../Output/20160522-113740.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="37.766" y="11.3249" objectId="108951" relativeX="0.712766" relativeY="0.544164" type="point">
      <description/>
@@ -11799,7 +11799,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="124" objectId="108933" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108933" tourDirectory="a0_341_108933" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="124">
     <description foregroundColor="#000000" name="A0.341" backgroundColor="#ffffff" filename="../Output/20160522-113828.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="27.766" y="11.0647" objectId="108950" relativeX="0.546099" relativeY="0.535489" type="point">
      <description/>
@@ -11822,7 +11822,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="124" objectId="108937" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108937" tourDirectory="corridor__a0_342__108937" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="124">
     <description foregroundColor="#000000" name="Corridor (A0.342)" backgroundColor="#ffffff" filename="../Output/20160522-114230.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.7872" y="13.8565" objectId="108952" relativeX="0.496454" relativeY="0.628549" type="point">
      <description/>
@@ -11905,7 +11905,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="124" objectId="108939" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108939" tourDirectory="a0_348_108939" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="124">
     <description foregroundColor="#000000" name="A0.348" backgroundColor="#ffffff" filename="../Output/20160522-114326.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="42.8014" y="11.4432" objectId="108957" relativeX="0.79669" relativeY="0.548107" type="point">
      <description/>
@@ -11948,7 +11948,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="124" objectId="108941" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108941" tourDirectory="a0_342_108941" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="124">
     <description foregroundColor="#000000" name="A0.342" backgroundColor="#ffffff" filename="../Output/20160522-114418.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-3.22695" y="11.2776" objectId="108956" relativeX="0.0295508" relativeY="0.542587" type="point">
      <description/>
@@ -11971,7 +11971,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="124" objectId="108943" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108943" tourDirectory="a0_340_108943" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="124">
     <description foregroundColor="#000000" name="A0.340" backgroundColor="#ffffff" filename="../Output/20160522-114548.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.2435" y="12.295" objectId="108958" relativeX="0.0126084" relativeY="0.576498" type="point">
      <description/>
@@ -12014,7 +12014,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="124" objectId="108969" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108969" tourDirectory="corridor__a0_50__108969" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="124">
     <description foregroundColor="#000000" name="Corridor (A0.50)" backgroundColor="#ffffff" filename="../Output/20160522-120127.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="21.3357" y="12.082" objectId="108972" relativeX="0.438928" relativeY="0.569401" type="point">
      <description/>
@@ -12057,7 +12057,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="246" planar="false" phi="0" lowres="true" y="155" objectId="108973" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108973" tourDirectory="corridor__a0_414__108973" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="246" y="155">
     <description foregroundColor="#000000" name="Corridor (A0.414)" backgroundColor="#ffffff" filename="../Output/20160522-120330.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="22.6596" y="11.9637" objectId="108975" relativeX="0.460993" relativeY="0.565457" type="point">
      <description/>
@@ -12100,7 +12100,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="155" objectId="108977" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108977" tourDirectory="corridor__a0_555__108977" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="155">
     <description foregroundColor="#000000" name="Corridor (A0.555)" backgroundColor="#ffffff" filename="../Output/20160522-120558.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="11.0284" y="12.5079" objectId="108996" relativeX="0.267139" relativeY="0.583596" type="point">
      <description/>
@@ -12163,7 +12163,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="155" objectId="108979" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108979" tourDirectory="corridor__a0_60__108979" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="155">
     <description foregroundColor="#000000" name="Corridor (A0.60)" backgroundColor="#ffffff" filename="../Output/20160522-120829.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="9.96454" y="11.4196" objectId="109000" relativeX="0.249409" relativeY="0.547319" type="point">
      <description/>
@@ -12246,7 +12246,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="183" planar="false" phi="0" lowres="true" y="155" objectId="108981" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108981" tourDirectory="a0_540_108981" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="183" y="155">
     <description foregroundColor="#000000" name="A0.540" backgroundColor="#ffffff" filename="../Output/20160522-121012.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="49.0662" y="10.8517" objectId="109004" relativeX="0.901103" relativeY="0.528391" type="point">
      <description/>
@@ -12269,7 +12269,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="244" planar="false" phi="0" lowres="true" y="155" objectId="108983" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108983" tourDirectory="a0_535_108983" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="244" y="155">
     <description foregroundColor="#000000" name="A0.535" backgroundColor="#ffffff" filename="../Output/20160522-121122.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="31.2175" y="10.7098" objectId="109005" relativeX="0.603625" relativeY="0.523659" type="point">
      <description/>
@@ -12292,7 +12292,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="305" planar="false" phi="0" lowres="true" y="155" objectId="108985" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108985" tourDirectory="a0_555_108985" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="305" y="155">
     <description foregroundColor="#000000" name="A0.555" backgroundColor="#ffffff" filename="../Output/20160522-121326.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="36.1348" y="10.9937" objectId="108999" relativeX="0.685579" relativeY="0.533123" type="point">
      <description/>
@@ -12315,7 +12315,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="366" planar="false" phi="0" lowres="true" y="155" objectId="108987" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108987" tourDirectory="corridor__a0_62__108987" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="366" y="155">
     <description foregroundColor="#000000" name="Corridor (A0.62)" backgroundColor="#ffffff" filename="../Output/20160522-121432.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.4799" y="11.9874" objectId="109006" relativeX="0.491332" relativeY="0.566246" type="point">
      <description/>
@@ -12378,7 +12378,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="343" planar="false" phi="0" lowres="true" y="186" objectId="108989" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108989" tourDirectory="corridor__a0_516__108989" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="343" y="186">
     <description foregroundColor="#000000" name="Corridor (A0.516)" backgroundColor="#ffffff" filename="../Output/20160522-121640.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="24.7163" y="12.7918" objectId="109009" relativeX="0.495272" relativeY="0.59306" type="point">
      <description/>
@@ -12421,7 +12421,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="61" planar="false" phi="0" lowres="true" y="186" objectId="108991" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108991" tourDirectory="a0_ascenseur_108991" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="61" y="186">
     <description foregroundColor="#000000" name="A0 Ascenseur" backgroundColor="#ffffff" filename="../Output/20160522-121856.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="54.74" y="13.1467" objectId="109011" relativeX="0.995666" relativeY="0.60489" type="point">
      <description/>
@@ -12444,7 +12444,7 @@
      </presetAction>
     </spot>
    </pano>
-   <pano maxFov="90" minFov="1" hFov="360" maxPixelZoom="true" dontGenerateTiles="false" startYaw="0" heading="0" x="122" planar="false" phi="0" lowres="true" y="186" objectId="108993" startPitch="0" startFov="90" vFov="180" type="0">
+   <pano maxFov="90" type="0" hFov="360" startFov="90" maxPixelZoom="true" planar="false" objectId="108993" tourDirectory="corridor__a0_840__108993" heading="0" vFov="180" minFov="1" startPitch="0" dontGenerateTiles="false" lowres="true" phi="0" startYaw="0" x="122" y="186">
     <description foregroundColor="#000000" name="Corridor (A0.840)" backgroundColor="#ffffff" filename="../Output/20160522-122314.jpg" foregroundAlpha="255" backgroundAlpha="255"/>
     <spot x="-4.40898" y="12.082" objectId="109012" relativeX="0.00985028" relativeY="0.569401" type="point">
      <description/>
@@ -12468,7 +12468,7 @@
     </spot>
    </pano>
   </group>
-  <build desktopTour="true" displayErrors="true" htmlTemplate="Bubbles_2015_12.html" ftpSettings="talloakdesign@visite.cahuntsic.ca@visite.cahuntsic.ca:21//,visite.cahuntsic.ca,/,talloakdesign@visite.cahuntsic.ca," flashTour="true" exportComments="true" baseDir="/Volumes/TallOak3/Ahuntsic/Build" imgJpegQuality="9" encryptConfig="true" exportFtp="true" iBookTour="false" filename="index.html" websiteWithCredentials="false" lang="en,fr" useMobileScale="true" useMultiResolution="true" mobilesTour="true" html5Tour="true"/>
+  <build imgJpegQuality="9" iBookTour="false" useMobileScale="true" websiteWithCredentials="false" lang="en,fr" displayErrors="true" useMultiResolution="true" baseDir="/Volumes/TallOak3/Ahuntsic/Build" filename="index.html" mobilesTour="true" html5Tour="true" exportComments="true" encryptConfig="true" htmlTemplate="Bubbles_2015_12.html" flashTour="true" desktopTour="true"/>
   <plugins>
    <plugin name="Gyroscope" id="gyroscope">
     <param customize="false" name="tr:The gyroscope plugin allows user to control the view by moving its mobile or tablet device." id="warningMess" uiPreview="false"/>
