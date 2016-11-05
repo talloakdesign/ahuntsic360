@@ -7,7 +7,3 @@ This is the Panotour project for CEGEP Ahuntsic's 360 photo tour, by <a href="ht
 
 ## incomplete
 * A2
-* C3
-* C4
-* G2
-* G3
