@@ -8,3 +8,4 @@ This is the Panotour project for CEGEP Ahuntsic's 360 photo tour, by <a href="ht
 # log
 * <strong>Final Alpha</strong> (11/11/2016) - full tour with all captured areas. Elevator navigation is not included in this build, scheduled for Beta 1. Navigation can be done between the slide groups using up/down keys. 
 * <strong>Beta 1</strong> (11/15/2016) - elevator navigation included (A, B, C, G). Note that stairwells are not used for navigation by intention, with the except of T stairwell and windowed stairwell in B. 
+* <strong>Beta 2</strong> (121/30/2016) - corrections to elevator zoom/pan. Adjustment to order of panos inside groups.
